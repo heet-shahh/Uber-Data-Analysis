@@ -35,6 +35,7 @@ The following evaluation metrics were obtained for the XGBoost predictions on th
 ## Regression Plots
 
 Regression plots for Random Forest and XGBoost predictions:
+
 ![Random Forest](https://github.com/heet-shahh/Uber-Data-Analysis/assets/141808272/c0cb0341-3747-46f9-9620-c0d37770e23e)
 ![XGBoost](https://github.com/heet-shahh/Uber-Data-Analysis/assets/141808272/58d4eb45-5989-4c1f-b6c7-d4e73e464ad0)
 
